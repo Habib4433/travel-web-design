@@ -1,0 +1,151 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+.header-background-photo {
+    background-image: url('../Blog image/Decore.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin: none;
+    height: 872.58px;
+    top: -149px;
+    left: 736px;
+}   
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 54px 55px;
+}
+.logo{
+    width: 114.91px;
+    height: 33.99px;
+    margin-top: 15px;  
+}
+nav ul li{
+    list-style: none;
+    margin-right: 55px;
+    font-size: 17px;
+    font-weight: 400px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.text-color{
+    color: rgba(33, 40, 50, 1);
+}
+nav li a{
+    text-decoration: none;
+}
+.Sign-up-button{
+    width: 102px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid rgba(33, 40, 50, 1);
+    margin-top: px;
+} 
+
+   
+/*baner*/
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 105px;
+    margin-left: 55px;
+    margin-right: 148px;
+}
+.banner-content{
+    max-width: 1200.87;
+    width: 630px;
+    height: 535px;
+    top: 217px;
+    left: 148px;
+}
+.banner-greetings{
+    color: rgba(223, 105, 81, 1);
+    width: 410px;
+    height: 30px;
+    top: 217px;
+    left: 150px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.banner-title{
+    font-family: Volkhov;
+    font-size: 84px;
+    font-weight: 700;
+    line-height: 89px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(24, 30, 75, 1);
+    ;
+}
+.banner-description{
+    font-family: Poppins;
+    width: 477px;
+    height: 90px;
+    top: 568px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    color: rgba(94, 98, 130, 1);
+}
+.find-out-button{
+    width: 170px;
+    height: 60px;
+    top: 692px;
+    left: 148px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+    background: rgba(241, 165, 1, 1);
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+}
+.play-button{
+    width: 165px;
+    height: 52px;
+    top: 696px;
+    left: 362px;
+    background-color: white;
+    border: none;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25.5px;
+    text-decoration-skip-ink: none;
+    color: rgba(104, 109, 119, 1);
+}
+.banner-p-p{
+    width: 783.87px;
+    height: 764px;
+    top: 105px;
+    left: 565px;
+    gap: 0px;
+    opacity: 0px;    
+}
+ 
